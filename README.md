@@ -2,11 +2,20 @@
  Simple point and click RPG.
  
  how to play :
+ to open project, use unity to open the project.
+ 
+ to play game, play .exe file in /Build folder.
+ 
  use mouse click to have player move, enter combat etc. no keyboard.
+ 
  press I for inventory.
+ 
  press q for quests.
+ 
  press S to save.
+ 
  press L to load.
+ 
  to start from new game, delete save file in "AppData\LocalLow\DefaultCompany\RPG project".
 
 Done :
